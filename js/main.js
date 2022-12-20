@@ -143,6 +143,9 @@
 		parallax();
 		// pieChart();
 		skillsWayPoint();
+		console.log('====================================');
+		console.log();
+		console.log('====================================');
 	});
 
 
